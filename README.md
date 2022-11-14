@@ -2,7 +2,7 @@
 
 A Netflix content and views report made in Power BI
 
-## Dataset clafirifactions
+## Dataset clarifications
 
 The dataframe contains some "non given" values that were filtered in the report and accounted for.
 
